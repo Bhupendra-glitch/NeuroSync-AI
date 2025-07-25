@@ -130,7 +130,7 @@ const TechfestLanding = () => {
       <section ref={heroRef} className="min-h-screen flex items-center justify-center relative pt-20">
         <div className="container mx-auto px-6 text-center">
           <Badge className="mb-6 bg-primary/20 text-primary border-primary">
-            Techfest IIT Bombay 2024 Startup Showcase
+            Techfest IIT Bombay 2025 Startup Showcase
           </Badge>
           
           <h1 
@@ -267,7 +267,7 @@ const TechfestLanding = () => {
             <span className="text-lg font-semibold gradient-text">NeuroSync AI</span>
           </div>
           <p className="text-muted-foreground">
-            © 2024 NeuroSync AI. Proudly presented at Techfest IIT Bombay.
+            © 2025 NeuroSync AI. Proudly presented at Techfest IIT Bombay.
           </p>
         </div>
       </footer>
